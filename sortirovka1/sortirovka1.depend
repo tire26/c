@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601989653 source:c:\users\hp\язык c\ucheba\ѕрограммы\sortirovka1\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

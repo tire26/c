@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602585587 source:c:\users\hp\язык c\ucheba\ѕрограммы\matrixtranspose\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
